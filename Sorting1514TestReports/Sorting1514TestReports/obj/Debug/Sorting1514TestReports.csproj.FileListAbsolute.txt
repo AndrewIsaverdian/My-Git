@@ -1,0 +1,19 @@
+C:\1514\RevC\Sorting1514TestReports\Sorting1514TestReports\bin\Debug\Sorting1514TestReports.exe.config
+C:\1514\RevC\Sorting1514TestReports\Sorting1514TestReports\bin\Debug\Sorting1514TestReports.exe
+C:\1514\RevC\Sorting1514TestReports\Sorting1514TestReports\bin\Debug\Sorting1514TestReports.pdb
+C:\1514\RevC\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.csproj.CoreCompileInputs.cache
+C:\1514\RevC\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.exe
+C:\1514\RevC\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.pdb
+C:\1514\RevC\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.csprojResolveAssemblyReference.cache
+C:\Programming_1514\Sorting1514TestReports\Sorting1514TestReports\bin\Debug\Sorting1514TestReports.exe.config
+C:\Programming_1514\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.exe
+C:\Programming_1514\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.pdb
+C:\Programming_1514\Sorting1514TestReports\Sorting1514TestReports\bin\Debug\Sorting1514TestReports.exe
+C:\Programming_1514\Sorting1514TestReports\Sorting1514TestReports\bin\Debug\Sorting1514TestReports.pdb
+C:\Programming_1514\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.csprojResolveAssemblyReference.cache
+C:\Programming_W7T3422\NET\File Management\Sorting1514TestReports\Sorting1514TestReports\bin\Debug\Sorting1514TestReports.exe.config
+C:\Programming_W7T3422\NET\File Management\Sorting1514TestReports\Sorting1514TestReports\bin\Debug\Sorting1514TestReports.exe
+C:\Programming_W7T3422\NET\File Management\Sorting1514TestReports\Sorting1514TestReports\bin\Debug\Sorting1514TestReports.pdb
+C:\Programming_W7T3422\NET\File Management\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.csprojResolveAssemblyReference.cache
+C:\Programming_W7T3422\NET\File Management\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.exe
+C:\Programming_W7T3422\NET\File Management\Sorting1514TestReports\Sorting1514TestReports\obj\Debug\Sorting1514TestReports.pdb
